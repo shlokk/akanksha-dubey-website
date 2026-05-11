@@ -17,8 +17,8 @@
     "framer-motion": "latest"
   },
   "devDependencies": {
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
-  }
+  "@tailwindcss/postcss": "latest",
+  "tailwindcss": "latest",
+  "postcss": "latest"
+}
 }
